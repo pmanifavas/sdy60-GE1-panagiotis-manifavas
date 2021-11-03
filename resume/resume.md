@@ -7,7 +7,7 @@
 ![Address](/images/location.png) Athens,Greece &nbsp;&nbsp;
 ![Phone](/images/phone.png) 0000000000 &nbsp;&nbsp;
 ![Email](/images/email.png) std150667@ac.eap.gr &nbsp;&nbsp;
-![LinkedIn](/images/linkedin.png) [MyLinkedIn](https://www.linkedin.com/in/panagiotis-manifavas-67007b132/)
+![LinkedIn](/images/linkedin.jpg) [MyLinkedIn](https://www.linkedin.com/in/panagiotis-manifavas-67007b132/)
 
 ## Education
 
