@@ -1,10 +1,10 @@
 # Panagiotis Manifavas            
-![Manifavas Panagiotis](/images/photo.png) 
+![Manifavas Panagiotis](/images/photo.jpg) 
 
 
 ## Contact Details
 
-![Address](/images/location.png) Athens,Greece &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![Address](/images/location.png) Athens,Greece 
 ![Phone](/images/phone.png) 0000000000 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Email](/images/email.png) std150667@ac.eap.gr &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![LinkedIn](/images/linkedin.png) [MyLinkedIn](https://www.linkedin.com/in/panagiotis-manifavas-67007b132/)
