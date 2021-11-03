@@ -49,7 +49,7 @@ BSc Computer Engineer | University of Ioannina
 | English  | Very Good  | 
 | Italian  | A1 tourist  | 
 
-## Interests & Activities
+## Interests 
 - Basketball
 - Swimming
 - Tech-Savvy
