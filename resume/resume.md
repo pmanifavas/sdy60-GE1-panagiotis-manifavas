@@ -21,7 +21,6 @@ BSc Computer Engineer | University of Ioannina
 
 | Period  | Employer | Role |
 | ------------- | ------------- | ------------- |
-
 | 2021-Present  | Kyndryl S.A (IBM Spinoff company)  | Infrastructure Specialist, Hybrid Cloud Projects(Storage)  |
 | 2019-2020  | IBM Hellas S.A  | System Management Specialist, Databases & Big Data Analytics  |
 | 2019-2019  | Imerys S.A (outsource by InTTrust S.A)  | System Administrator / IT Support EMEA Region  |
